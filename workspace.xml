@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e76d58d-0aec-405a-ba6e-40b2034ba47b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/Path.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/Path.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/builders/AccountQueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/builders/AccountQueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/builders/ContactDetailsQueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/builders/ContactDetailsQueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/builders/QueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/builders/QueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/builders/ServiceQueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/builders/ServiceQueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/builders/TariffQueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/builders/TariffQueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/builders/UserQueryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/builders/UserQueryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/entity/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/entity/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/entity/ContactDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/entity/ContactDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/entity/PackageServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/entity/PackageServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/entity/Tariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/entity/Tariff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/AccountImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/AccountImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/ContactDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/ContactDetailsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/DBManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/DBManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/IAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/IAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/IContactDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/IContactDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/IEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/IEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/IService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/IService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/ITariff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/ITariff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/IUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/IUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/ServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/TariffImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/TariffImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/repository/UserImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/repository/UserImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/ContactDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/ContactDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/IAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/IAccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/IContactDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/IContactDetailsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/IPackageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/IPackageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/ITariffService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/ITariffService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/PackageServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/PackageServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/TariffServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/TariffServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/db/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/db/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/utils/ReportBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/utils/ReportBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/CommandFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/CommandFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/ICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/ICommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/admin/AddTariffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/admin/AddTariffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/admin/EditClientICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/admin/EditClientICommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/admin/EditTariffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/admin/EditTariffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/admin/MainCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/admin/MainCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/admin/ProfileCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/admin/ProfileCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/admin/RegistrationCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/admin/RegistrationCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/admin/RemoveTariffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/admin/RemoveTariffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/client/AccountCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/client/AccountCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/client/PersonalDataCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/client/PersonalDataCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/common/LogoutCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/common/LogoutCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/common/NoCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/common/NoCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/common/PdfBuilderCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/common/PdfBuilderCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/outofcontrol/I18NCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/outofcontrol/I18NCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/command/outofcontrol/LoginCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/command/outofcontrol/LoginCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/filter/EncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/filter/EncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/filter/SecurityFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/filter/SecurityFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/nure/zarazka/web/listener/ContextListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/project/provider/web/listener/ContextListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29qss3KjETnn8bTDrn6hlXAO3Fm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Program Files/Apache Software Foundation/Tomcat 8.5_Tomcat_8/bin/catalina.bat" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All in internet-tariffs-provider" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="internet-tariffs-provider" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in internet-tariffs-provider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e76d58d-0aec-405a-ba6e-40b2034ba47b" name="Changes" comment="" />
+      <created>1653852158605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653852158605</updated>
+      <workItem from="1653852163833" duration="1198000" />
+      <workItem from="1653870798963" duration="438000" />
+      <workItem from="1653938190979" duration="1304000" />
+      <workItem from="1653985611588" duration="884000" />
+      <workItem from="1654011710342" duration="3046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Internet_Provider$All_in_internet_tariffs_provider.ic" NAME="All in internet-tariffs-provider Coverage Results" MODIFIED="1654013195298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
